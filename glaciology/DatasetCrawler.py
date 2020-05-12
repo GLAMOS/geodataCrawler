@@ -8,9 +8,9 @@ import os
 from os.path import basename
 
 # Global Variables
-rootDirectory  = r"\\itetnas01.ee.ethz.ch\glazioarch\GlacioBaseData\GeoData\Glacier"
-shapeDirectory = r"\\itetnas01.ee.ethz.ch\glazioarch\GlacioBaseData\GeoData\Glacier"
-shapeFileName  = "vaw_L2_Datasets_lv03_temp03.shp"
+rootDirectory  = r"\\offshore.ee.ethz.ch\glazioarch\GlacioBaseData\GeoData\Glacier"
+shapeDirectory = r"\\offshore.ee.ethz.ch\glazioarch\GlacioBaseData\GeoData\Glacier"
+shapeFileName  = "vaw_L2_Datasets_lv03_20200405.shp"
 geometryType   = "POLYGON"
 
 # Global Constants
